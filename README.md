@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://interior-consultant-anarseferov.vercel.app/">
       Live Demo
     </a>
     <span> | </span>
@@ -19,10 +19,10 @@
 
 ## Overview
 
-![screenshot](C:\Users\Anar\Downloads\interior-consultant\screenshots\screenshot-desktop.png)
+![screenshot](./screenshots/screenshot-desktop.png)
 
 Simple responsive home page using only HTML and CSS
 
 ## Contact
 
-- GitHub [@anarseferrov](https://{github.com/anarseferrov})
+- GitHub [@anarseferrov](https://github.com/anarseferrov)
